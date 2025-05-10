@@ -100,7 +100,8 @@ Deploy on cloud platforms (e.g., Heroku, Streamlit Sharing)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 🧑‍💻 Author
-Your Name: Humaira Fathima N
+
+Name: Humaira Fathima N
 
 Portfolio
 
