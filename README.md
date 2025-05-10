@@ -15,16 +15,21 @@ Welcome to the Movie Recommendation System! This project uses NLP techniques and
 ## 🧠 Tech Stack & Workflow
 
 ### 📊 Flowchart Overview
-
-```mermaid
-graph TD
-A[Kaggle Movie Dataset 📂] --> B[Data Cleaning & Preprocessing 🧹 using Pandas]
-B --> C[TF-IDF Vectorization ✍️ (Scikit-learn)]
-C --> D[Cosine Similarity Calculation 🧠]
-D --> E[Model Serialization with Pickle 🥒]
-E --> F[Streamlit UI Development 💻]
-F --> G[Poster Fetching using TMDB API 🖼️]
-G --> H[Display Top 5 Recommendations 🎯]
+Kaggle Movie Dataset 📂  
+        ⬇️  
+Data Cleaning & Preprocessing 🧹 (using Pandas)  
+        ⬇️  
+TF-IDF Vectorization ✍️ (Scikit-learn)  
+        ⬇️  
+Cosine Similarity Calculation 🧠  
+        ⬇️  
+Model Serialization with Pickle 🥒  
+        ⬇️  
+Streamlit UI Development 💻  
+        ⬇️  
+Poster Fetching using TMDB API 🖼️  
+        ⬇️  
+Display Top 5 Recommendations 🎯
 
 🛠️ Tools & Libraries Used
 🐍 Python
